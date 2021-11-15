@@ -1,0 +1,13 @@
+[
+    {"serial_no":101,"name":"Carrot","quantity":"1kg","unit":"-","department":"vegibales","Notes":"take fresh carrots"},
+    {"serial_no":102,"name":"Cucumbar","quantity":"2kg","unit":"-","department":"vegibales","Notes":"take fresh cucumbar"},
+    {"serial_no":103,"name":"Tomato","quantity":"1kg","unit":"-","department":"vegibales","Notes":"take fresh Tomatos"},
+    {"serial_no":104,"name":"Orange","quantity":"3kg","unit":"-","department":"fruits","Notes":"take fresh oranges"},
+    {"serial_no":105,"name":"Apple","quantity":"1.5kg","unit":"-","department":"fruits","Notes":"take fresh Apples"},
+    {"serial_no":106,"name":"Mango","quantity":"2.5kg","unit":"-","department":"fruits","Notes":"take fresh Mnago"},
+    {"serial_no":107,"name":"Skim Milk","quantity":"1L","unit":"1","department":"Dairy","Notes":" choose milma"},
+    {"serial_no":108,"name":"Yogurt","quantity":"1L","unit":"2","department":"Dairy","Notes":"choose milma"},
+    {"serial_no":109,"name":"Salt","quantity":"1kg","unit":"2","department":"condiments","Notes":"salt powder"},
+    {"serial_no":110,"name":"Pepper","quantity":"250g","unit":"1","department":"condiments","Notes":"pepper powder"}
+
+]
