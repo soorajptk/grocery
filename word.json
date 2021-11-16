@@ -1,13 +1,13 @@
 [
-    {"serial_no":101,"name":"Carrot","quantity":"1kg","unit":"-","department":"vegibales","Notes":"take fresh carrots"},
-    {"serial_no":102,"name":"Cucumbar","quantity":"2kg","unit":"-","department":"vegibales","Notes":"take fresh cucumbar"},
-    {"serial_no":103,"name":"Tomato","quantity":"1kg","unit":"-","department":"vegibales","Notes":"take fresh Tomatos"},
-    {"serial_no":104,"name":"Orange","quantity":"3kg","unit":"-","department":"fruits","Notes":"take fresh oranges"},
-    {"serial_no":105,"name":"Apple","quantity":"1.5kg","unit":"-","department":"fruits","Notes":"take fresh Apples"},
-    {"serial_no":106,"name":"Mango","quantity":"2.5kg","unit":"-","department":"fruits","Notes":"take fresh Mnago"},
-    {"serial_no":107,"name":"Skim Milk","quantity":"1L","unit":"1","department":"Dairy","Notes":" choose milma"},
-    {"serial_no":108,"name":"Yogurt","quantity":"1L","unit":"2","department":"Dairy","Notes":"choose milma"},
-    {"serial_no":109,"name":"Salt","quantity":"1kg","unit":"2","department":"condiments","Notes":"salt powder"},
-    {"serial_no":110,"name":"Pepper","quantity":"250g","unit":"1","department":"condiments","Notes":"pepper powder"}
+    {"serial_no":101,"name":"<label for='carrot' id='carrots'>Carrot</label>","quantity":"1kg","unit":"-","department":"vegibales","Notes":"take fresh carrots","status":"<input id='carrot' onclick='delt(this)' type='checkbox'>"},
+    {"serial_no":102,"name":"<label for='cucumbar' id='cucumbar'>Cucumbar</label>","quantity":"2kg","unit":"-","department":"vegibales","Notes":"take fresh cucumbar","status":"<input id='cucumbar' onclick='delt1(this)' type='checkbox'>"},
+    {"serial_no":103,"name":"<label for='tomato' id='tomato'>Tomato</label>","quantity":"1kg","unit":"-","department":"vegibales","Notes":"take fresh Tomatos","status":"<input id='tomato' onclick='delt2(this)' type='checkbox'>"},
+    {"serial_no":104,"name":"<label for='orange' id='orange'>Orange</label>","quantity":"3kg","unit":"-","department":"fruits","Notes":"take fresh oranges","status":"<input id='orange' onclick='delt3(this)' type='checkbox'>"},
+    {"serial_no":105,"name":"<label for='apple' id='apple'>Apple</label>","quantity":"1.5kg","unit":"-","department":"fruits","Notes":"take fresh Apples","status":"<input id='apple' onclick='delt4(this)' type='checkbox'>"},
+    {"serial_no":106,"name":"<label for='mango' id='mango'>Mango</label>","quantity":"2.5kg","unit":"-","department":"fruits","Notes":"take fresh Mnago","status":"<input id='mango' onclick='delt5(this)' type='checkbox'>"},
+    {"serial_no":107,"name":"<label for='milk' id='milk'>Skim Milk</label>","quantity":"1L","unit":"1","department":"Dairy","Notes":" choose milma","status":"<input id='milk' onclick='delt6(this)' type='checkbox'>"},
+    {"serial_no":108,"name":"<label for='yogurt' id='yogurt'>Yogurt</yogurt>","quantity":"1L","unit":"2","department":"Dairy","Notes":"choose milma","status":"<input id='yogurt' onclick='delt7(this)' type='checkbox'>"},
+    {"serial_no":109,"name":"<label for='salt' id='salt'>Salt</label>","quantity":"1kg","unit":"2","department":"condiments","Notes":"salt powder","status":"<input id='salt' onclick='delt8(this)' type='checkbox'>"},
+    {"serial_no":110,"name":"<label for='pepper' id='pepper'>Pepper</pepper>","quantity":"250g","unit":"1","department":"condiments","Notes":"pepper powder","status":"<input id='pepper' onclick='delt9(this)' type='checkbox'>"}
 
 ]
