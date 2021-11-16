@@ -22,11 +22,12 @@ function load(){
         if(obj.checked){
         
             x.innerHTML="<del>"+x.textContent+"</del>";
-    
+            x.style.color="black";    
         }else{
         
             x.innerHTML=x.textContent;
-    
+            x.style.color="#fff"    
+            
     
         }
      }
@@ -36,9 +37,12 @@ function load(){
         let x=document.getElementById("cucumbar")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
+        x.style.color="black";    
+
     
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
@@ -49,9 +53,11 @@ function load(){
         let x=document.getElementById("tomato")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
-    
+        x.style.color="black";    
+            
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
@@ -62,9 +68,11 @@ function load(){
         let x=document.getElementById("orange")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
+        x.style.color="black";    
     
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
@@ -75,9 +83,11 @@ function load(){
         let x=document.getElementById("apple")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
+        x.style.color="black";    
     
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
@@ -87,9 +97,11 @@ function load(){
         let x=document.getElementById("mango")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
+        x.style.color="black";    
     
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
@@ -100,9 +112,11 @@ function load(){
         let x=document.getElementById("milk")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
+        x.style.color="black";    
     
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
@@ -114,9 +128,11 @@ function load(){
         let x=document.getElementById("yogurt")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
+        x.style.color="black";    
     
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
@@ -125,9 +141,11 @@ function load(){
         let x=document.getElementById("salt")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
+        x.style.color="black";    
     
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
@@ -136,9 +154,11 @@ function load(){
         let x=document.getElementById("pepper")
         if(obj.checked){
         x.innerHTML="<del>"+x.textContent+"</del>";
+        x.style.color="black";    
     
         }else{
         x.innerHTML=x.textContent;
+        x.style.color="#fff"    
     
     
         }
